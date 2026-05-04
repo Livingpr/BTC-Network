@@ -1,0 +1,21 @@
+{
+  "loaded": true,
+  "size": 1,
+  "bytes": 141,
+  "usage": 1224,
+  "total_fee": 0.00001410,
+  "maxmempool": 300000000,
+  "mempoolminfee": 0.00000100,
+  "minrelaytxfee": 0.00000100,
+  "incrementalrelayfee": 0.00000100,
+  "unbroadcastcount": 0,
+  "fullrbf": true,
+  "permitbaremultisig": true,
+  "maxdatacarriersize": 100000,
+  "limitclustercount": 64,
+  "limitclustersize": 101000,
+  "optimal": true
+}
+[
+  "70b1f3e4b1a844410384f8bc896d7b4b3e85547a8da5a7a3305d67ce8833bac6"
+]

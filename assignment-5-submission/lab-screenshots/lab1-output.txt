@@ -1,0 +1,42 @@
+{
+  "chain": "regtest",
+  "blocks": 202,
+  "headers": 202,
+  "bestblockhash": "2e6de1b9a7e4778079c70342558aab50e07ad72d823b40cd5e29af2e6bf80310",
+  "bits": "207fffff",
+  "target": "7fffff0000000000000000000000000000000000000000000000000000000000",
+  "difficulty": 4.656542373906925e-10,
+  "time": 1777895603,
+  "mediantime": 1777895602,
+  "verificationprogress": 1,
+  "initialblockdownload": false,
+  "chainwork": "0000000000000000000000000000000000000000000000000000000000000196",
+  "size_on_disk": 60548,
+  "pruned": false,
+  "warnings": [
+    "This is a pre-release test build - use at your own risk - do not use for mining or merchant applications"
+  ]
+}
+{
+  "walletname": "devwallet",
+  "walletversion": 169900,
+  "format": "sqlite",
+  "txcount": 303,
+  "keypoolsize": 4000,
+  "keypoolsize_hd_internal": 4000,
+  "private_keys_enabled": true,
+  "avoid_reuse": false,
+  "scanning": false,
+  "descriptors": true,
+  "external_signer": false,
+  "blank": false,
+  "birthtime": 1777878441,
+  "flags": [
+    "last_hardened_xpub_cached",
+    "descriptor_wallet"
+  ],
+  "lastprocessedblock": {
+    "hash": "2e6de1b9a7e4778079c70342558aab50e07ad72d823b40cd5e29af2e6bf80310",
+    "height": 202
+  }
+}

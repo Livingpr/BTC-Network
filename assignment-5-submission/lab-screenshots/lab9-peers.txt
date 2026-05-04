@@ -1,0 +1,8 @@
+[
+  {
+    "addr": "127.0.0.1:19444",
+    "subver": "/Satoshi:31.99.0/",
+    "inbound": false,
+    "services": "0000000000000c09"
+  }
+]

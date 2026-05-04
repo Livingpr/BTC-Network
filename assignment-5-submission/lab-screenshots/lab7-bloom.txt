@@ -1,0 +1,9 @@
+Added: abc123fake...
+Added: def456fake...
+
+'abc123fake' in filter: True
+'notinthere' in filter: False  (should be False)
+
+NOTE: BIP37 bloom filters are deprecated in Bitcoin Core
+due to privacy leaks — clients reveal which transactions
+they are watching. BIP158 compact filters replaced them.
